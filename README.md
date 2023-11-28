@@ -1,6 +1,6 @@
-# github
+# Github
 
-## github-notes
+## Github-Notes
 
 * **Git** exist because git is use for **version conrol**.
 * **Git** helps when **collaborating** with others.
