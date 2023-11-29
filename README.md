@@ -8,7 +8,7 @@
    * A system that can keep track on the history of a project and well collaboration on the projects.
 * **Git** is the actual **version control software**.
    * **Git** itself is the application.  
-* **Github** is a web cider or a web service.
+* **Github** is a **web cider** or a **web service**.
    * A web service where a user can sign up / my an account and use **Git** on servers or on a website.
 * When something is highlighted that means something was changed
 * When users see the `+` that means something was added
